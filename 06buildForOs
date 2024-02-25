@@ -1,0 +1,11 @@
+package main
+
+
+func main(){
+	//GO allows you to give the tools that help to build exe for windows, linux and mac as well.
+	//just write <go env> on cmd
+	//GOOS = "darwin"for mac
+    //GOOS = "windows" for windows
+    //GOOS = "linux" for linux
+	//just write GOOS = "<os that you want>" go build this will make the file executable for that OS.
+}
